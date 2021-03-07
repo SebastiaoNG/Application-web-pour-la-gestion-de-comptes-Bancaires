@@ -5,4 +5,4 @@
  * @author sebastien ng
  *
  */
-package org.upec.comptes;
+package org.upec.servlets;
